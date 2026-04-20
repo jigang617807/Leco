@@ -1,7 +1,7 @@
 package xiecheng;
 import java.util.Scanner;
 public class Aindex {
-    
+    //新增了改动！
     public static void main(String[] args) {
         // 创建 Scanner 对象用于读取标准输入
         Scanner sc = new Scanner(System.in);
